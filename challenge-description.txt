@@ -1,0 +1,2 @@
+The Blum Blum Shub pseudo-random generator produces an extremely strong key.
+Author: el-alami
